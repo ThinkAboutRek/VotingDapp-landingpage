@@ -10,9 +10,9 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "CIP Pro",
+  title: "Voting Dapp",
   description:
-    "Crypto Index Pool Pro",
+    "Voting Dapp",
   icons: {
     icon: '/logos/cip-pro-small.png',
   },
