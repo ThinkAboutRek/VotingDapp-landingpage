@@ -16,7 +16,7 @@ const AutoLiquidity = () => {
                   Polygon Blockchain
                 </h2>
                 <p className="mt-1 text-sm text-neutral-400">
-                The system leverages Polygon, a Layer-2 Ethereum scaling solution, to minimize transaction costs while ensuring high throughput. Polygon's low fees make it cost-effective for large-scale elections, while its scalable architecture supports millions of transactions without compromising speed or reliability. This ensures the system remains efficient and accessible, even during high voter turnout, setting a new standard for modern electoral processes.
+                The system leverages Polygon, a Layer-2 Ethereum scaling solution, to minimize transaction costs while ensuring high throughput. Polygon&apos;s low fees make it cost-effective for large-scale elections, while its scalable architecture supports millions of transactions without compromising speed or reliability. This ensures the system remains efficient and accessible, even during high voter turnout, setting a new standard for modern electoral processes.
                   <br />
                   <br />
                   Traditional voting systems face significant challenges, including fraud, lack of transparency, and inefficiencies that undermine trust in democratic processes. This project addresses these issues by leveraging blockchain technology on the Polygon network to create a secure, transparent, and scalable decentralized voting system. By integrating Civic for robust identity verification and Witnet Oracle for secure off-chain data validation, the system ensures voter eligibility, tamper-proof records, and cost efficiency, paving the way for modernized and trustworthy elections.
@@ -77,7 +77,7 @@ const AutoLiquidity = () => {
                   Civic  <br /> Pass
                 </h2>
                 <p className="mt-1 text-sm text-neutral-400">
-                Civic's advanced identity verification technology ensures that only eligible voters can participate in the election process. By securely authenticating voter identities and linking trusted wallets to the system, Civic prevents fraudulent activities such as duplicate or unauthorized voting. This robust authentication mechanism enhances security and builds trust in the decentralized voting platform.
+                Civic&apos;s advanced identity verification technology ensures that only eligible voters can participate in the election process. By securely authenticating voter identities and linking trusted wallets to the system, Civic prevents fraudulent activities such as duplicate or unauthorized voting. This robust authentication mechanism enhances security and builds trust in the decentralized voting platform.
                   <br />
                  
                 </p>
