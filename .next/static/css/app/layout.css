@@ -830,9 +830,6 @@ video {
 .gap-16{
   gap: 4rem;
 }
-.gap-2{
-  gap: 0.5rem;
-}
 .gap-20{
   gap: 5rem;
 }
@@ -1119,9 +1116,6 @@ video {
 }
 .pt-3{
   padding-top: 0.75rem;
-}
-.pt-5{
-  padding-top: 1.25rem;
 }
 .pt-6{
   padding-top: 1.5rem;
