@@ -101,7 +101,7 @@ const Header = () => {
           <div className="flex items-center gap-3">
             <Link
               className="inline-block primary-button"
-              href="#"
+              href="https://voting-dapp-inner-bgxl.vercel.app/"
               target = "_blank"
             >
               Launch DApp
