@@ -830,6 +830,12 @@ video {
 .gap-16{
   gap: 4rem;
 }
+<<<<<<< HEAD
+=======
+.gap-2{
+  gap: 0.5rem;
+}
+>>>>>>> 1541463003a61b8ab04a5463c6e24fa1f7064db6
 .gap-20{
   gap: 5rem;
 }
@@ -1117,6 +1123,12 @@ video {
 .pt-3{
   padding-top: 0.75rem;
 }
+<<<<<<< HEAD
+=======
+.pt-5{
+  padding-top: 1.25rem;
+}
+>>>>>>> 1541463003a61b8ab04a5463c6e24fa1f7064db6
 .pt-6{
   padding-top: 1.5rem;
 }
