@@ -7,20 +7,20 @@ import { useAnimation, useInView, motion } from "framer-motion";
 const Upcoming = () => {
   const items = [
     {
-      title: "Civic Passport",
-      text: "Authentic Voting System with KYC Verification.",
+      title: "SumSub KYC",
+      text: "Authentic Voting System with KYC Verification",
     },
     {
-      title: "Polygon Network",
-      text: "Integration of Polygon Network for faster transactions.",
+      title: "Ethereum Network",
+      text: "Integration of Ethereum Network for faster transactions",
     },
     {
-      title: "Witnet Oracle",
-      text: "Decentralized Oracle for secure data feeds.",
+      title: "Rainbow Kit Wallet Connectivity",
+      text: "Seamless Wallet Connectivity with Rainbow Kit",
     },
     {
-      title: "Blockchain Technology",
-      text: "Blockchain Technology for secure transactions.",
+      title: "Smart Contracts",
+      text: "Smart Contracts for Secure Voting",
     },
   ];
 

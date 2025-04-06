@@ -59,7 +59,7 @@ const Seven = () => {
             </div>
             <div className="text-start rounded-lg bg-[#6A6A6A1A] p-4 sm:p-6 lg:p-12 lg:pb-20 shadow-2xl">
               <p className="text-sm text-neutral-300 leading-6">
-              This project leverages the Polygon blockchain to ensure tamper-proof decentralized election processes. By utilizing smart contract development, the system records votes immutably, preventing unauthorized alterations and ensuring trust in the voting process. The decentralized nature of the blockchain eliminates reliance on a central authority, safeguarding election data from manipulation and fostering voter confidence.
+              This project leverages the Ethereum blockchain to ensure tamper-proof decentralized election processes. By utilizing smart contract development, the system records votes immutably, preventing unauthorized alterations and ensuring trust in the voting process. The decentralized nature of the blockchain eliminates reliance on a central authority, safeguarding election data from manipulation and fostering voter confidence.
               </p>
             </div>
           </div>

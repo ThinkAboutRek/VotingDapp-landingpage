@@ -13,14 +13,13 @@ const AutoLiquidity = () => {
               <>
                 <p className="text-sm text-[#C792FF] mb-4">Decentralized Voting</p>
                 <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">
-                  Polygon Blockchain
+                  Ethereum Blockchain
                 </h2>
                 <p className="mt-1 text-sm text-neutral-400">
-                The system leverages Polygon, a Layer-2 Ethereum scaling solution, to minimize transaction costs while ensuring high throughput. Polygon&apos;s low fees make it cost-effective for large-scale elections, while its scalable architecture supports millions of transactions without compromising speed or reliability. This ensures the system remains efficient and accessible, even during high voter turnout, setting a new standard for modern electoral processes.
+                The system leverages Ethreum, a Layer-1 Blockchain network, to ensure the integrity and security of the voting process. By utilizing Ethereum decentralized architecture, the system guarantees that all votes are recorded on a tamper-proof ledger, making it virtually impossible to alter or manipulate the results. This transparency fosters trust among voters and stakeholders, as they can independently verify the authenticity of the election outcomes.
                   <br />
-                  <br />
-                  Traditional voting systems face significant challenges, including fraud, lack of transparency, and inefficiencies that undermine trust in democratic processes. This project addresses these issues by leveraging blockchain technology on the Polygon network to create a secure, transparent, and scalable decentralized voting system. By integrating Civic for robust identity verification and Witnet Oracle for secure off-chain data validation, the system ensures voter eligibility, tamper-proof records, and cost efficiency, paving the way for modernized and trustworthy elections.
-                  <br />
+                  The Ethereum blockchain also enables the implementation of smart contracts, which automate various aspects of the voting process, such as vote counting and result tabulation. This automation reduces the risk of human error and streamlines the overall voting experience for participants.
+                                  <br />
                   
                 </p>
               </>
@@ -74,10 +73,10 @@ const AutoLiquidity = () => {
               <>
                 <p className="text-sm text-[#3EFF8B] mb-4">Decentralized Voting</p>
                 <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-5">
-                  Civic  <br /> Pass
+                  SumSub KYC
                 </h2>
                 <p className="mt-1 text-sm text-neutral-400">
-                Civic&apos;s advanced identity verification technology ensures that only eligible voters can participate in the election process. By securely authenticating voter identities and linking trusted wallets to the system, Civic prevents fraudulent activities such as duplicate or unauthorized voting. This robust authentication mechanism enhances security and builds trust in the decentralized voting platform.
+                  The system employs SumSub, a leading KYC (Know Your Customer) solution, to verify the identities of voters. This ensures that only eligible individuals can participate in the voting process, preventing fraud and ensuring compliance with regulatory requirements. By integrating SumSub's robust identity verification technology, the system enhances the overall security and legitimacy of the voting process.
                   <br />
                  
                 </p>
