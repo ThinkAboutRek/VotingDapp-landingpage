@@ -76,7 +76,7 @@ const AutoLiquidity = () => {
                   SumSub KYC
                 </h2>
                 <p className="mt-1 text-sm text-neutral-400">
-                  The system employs SumSub, a leading KYC (Know Your Customer) solution, to verify the identities of voters. This ensures that only eligible individuals can participate in the voting process, preventing fraud and ensuring compliance with regulatory requirements. By integrating SumSub's robust identity verification technology, the system enhances the overall security and legitimacy of the voting process.
+                  The system employs SumSub, a leading KYC (Know Your Customer) solution, to verify the identities of voters. This ensures that only eligible individuals can participate in the voting process, preventing fraud and ensuring compliance with regulatory requirements. By integrating SumSub robust identity verification technology, the system enhances the overall security and legitimacy of the voting process.
                   <br />
                  
                 </p>
