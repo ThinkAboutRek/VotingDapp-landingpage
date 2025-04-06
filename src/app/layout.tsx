@@ -10,12 +10,9 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Voting Dapp",
+  title: "Votify",
   description:
     "Voting Dapp",
-  icons: {
-    icon: '/logos/cip-pro-small.png',
-  },
 };
 
 export default function RootLayout({
