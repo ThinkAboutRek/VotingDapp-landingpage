@@ -1,6 +1,6 @@
-# 🗳 Voting DApp - Landing Page
+# 🗳 Votify DApp - Landing Page
 
-Welcome to the **Voting DApp Landing Page**, a sleek and modern front page built to introduce and onboard users to a decentralized voting platform. Click on Launch Dapp in the navbar to go to the dapp!
+Welcome to the **Votify DApp Landing Page**, a sleek and modern front page built to introduce and onboard users to a decentralized voting platform. Click on Launch Dapp in the navbar to go to the dapp!
 
 ## 📸 Preview
 
