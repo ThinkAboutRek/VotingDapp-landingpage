@@ -1,7 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🗳 Voting DApp - Landing Page
 
-## Getting Started
+Welcome to the **Voting DApp Landing Page**, a sleek and modern front page built to introduce and onboard users to a decentralized voting platform. Click on Launch Dapp in the navbar to go to the dapp!
 
+## 📸 Preview
+
+https://sapphire-given-hippopotamus-374.mypinata.cloud/ipfs/bafybeiftdq7i3zvfiqppld74gsgyashpv545ldyo3ztv5xv2mhb52i6bhy
+
+## ✨ Features
+
+- Clean and responsive UI
+- Call-to-action to connect wallet and vote
+- Built with modern web technologies
+- Easily customizable layout and design
+
+## 🧰 Tech Stack
+
+- **Next.js** – Framework for React
+- **Tailwind CSS** – Utility-first styling
+- **Vercel** – Hosting & Deployment
+- **Web3** (Placeholder for wallet integration)
+
+
+Original Readme
+## Getting Starte
 First, run the development server:
 
 ```bash
