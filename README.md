@@ -18,11 +18,12 @@ https://sapphire-given-hippopotamus-374.mypinata.cloud/ipfs/bafybeiftdq7i3zvfiqp
 - **Next.js** – Framework for React
 - **Tailwind CSS** – Utility-first styling
 - **Vercel** – Hosting & Deployment
-- **Web3** (Placeholder for wallet integration)
+- **Solidity** - Smart contracts
 
 
 Original Readme
-## Getting Starte
+
+## Getting Started
 First, run the development server:
 
 ```bash
